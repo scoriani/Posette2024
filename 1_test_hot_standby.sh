@@ -1,0 +1,1 @@
+az postgres flexible-server restart --resource-group <rg_name> --name <primary_name> --failover Forced
